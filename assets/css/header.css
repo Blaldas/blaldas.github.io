@@ -1,0 +1,50 @@
+#header {
+    background-color: orange;
+    display: inline-block;
+    width: 100%;
+}   
+#toMainPage{
+    color: black;
+    font-size: 3vw;
+    font-weight: bolder;
+    text-decoration: none; 
+}
+.pagetitle{
+    color: rgb(44, 44, 44);
+    font-size: 2vw;
+    font-weight: bold;
+    text-decoration: none; 
+    padding-left: 1%;
+
+}
+
+.thisPage{
+    color:gray;
+    font-size: 2.5vw;
+    font-weight: bold;
+    text-decoration: none; 
+    padding-left: 1%;
+}
+
+#footer{
+    margin-top: 1vw;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: orange;
+    color: black;
+    text-align: center;
+    font-size: 75%;
+}
+
+#author{
+    width: 100%;
+    text-align: center;
+}
+
+#origin{
+    width: 100%;
+    text-align: center;
+    text-decoration: none; 
+    color: black;
+}

@@ -1,0 +1,8 @@
+.image_link{
+    width: 1vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 10px;
+}
