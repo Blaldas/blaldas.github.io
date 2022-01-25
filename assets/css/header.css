@@ -1,7 +1,8 @@
 #header {
     background-color: orange;
-    display: inline-block;
     width: 100%;
+    position: fixed;
+    top: 0;
 }   
 #toMainPage{
     color: black;
@@ -27,7 +28,6 @@
 }
 
 #footer{
-    margin-top: 1vw;
     position: fixed;
     bottom: 0;
     width: 100%;

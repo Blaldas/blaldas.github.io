@@ -1,8 +1,28 @@
-.image_link{
-    width: 1vw;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    margin-bottom: 10px;
+.image_list_container{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 100%;
+    height: 100%;
 }
+
+.image_row{
+    display: inline-block;
+    width: 100%;
+    height: 25% ;
+}
+
+.image_and_text{
+    text-decoration: none;
+    color: orange;
+    text-align: center;
+    padding-left: 6.25%;
+    display: inline-block;
+    margin-bottom: 10%;
+    margin-top: 15%;
+    width: 25%;
+}
+
+.image{
+    height: auto;
+}
+
