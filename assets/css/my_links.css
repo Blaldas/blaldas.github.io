@@ -26,3 +26,8 @@
     height: auto;
 }
 
+a:hover{
+    transform: scale(1.5);
+    color: gray;
+}
+
