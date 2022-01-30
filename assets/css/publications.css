@@ -1,0 +1,34 @@
+#title{
+    margin-top: 10%;
+    font-weight: bolder;
+    font-size: 2em;
+    color: orange;
+    text-align: center;
+}
+
+#article_list{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.article{
+    text-decoration: none;
+    font-size: 1em;
+    color: whitesmoke;
+}
+
+.article:hover{
+    transform: scale(1.1);
+    color: gray;
+    text-decoration: none;
+    font-size: 1.1em;
+}
+
+.article_title{
+    font-size: 1.5em;
+}
+
+.article_body{
+    margin-bottom: 2.5%;
+    font-size: 1em;
+}
