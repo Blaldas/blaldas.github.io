@@ -7,8 +7,8 @@ body{
     position: absolute;
     top: 0;
     top: 0;
-    clear: both
-    
+    clear: both;
+    height: 2.5em;
 }
    
 #toMainPage{
@@ -23,7 +23,15 @@ body{
     font-weight: bold;
     text-decoration: none; 
     padding-left: 1%;
+}
 
+.pagetitle:hover{
+    color: gray;
+    transform: scale(1.5);
+    font-weight: bold;
+    text-decoration: none; 
+    padding-left: 1%;
+    transform: scale(1.5);
 }
 
 .thisPage{
@@ -35,7 +43,7 @@ body{
 }
 
 #footer{
-    position: fixed;
+    position: absolute;
     bottom: 0;
     width: 100%;
     background-color: orange;
