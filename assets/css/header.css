@@ -6,9 +6,8 @@ body{
     width: 100%;
     position: absolute;
     top: 0;
-    top: 0;
     clear: both;
-    height: 2.5em;
+    height: 2em;
 }
    
 #toMainPage{
@@ -31,7 +30,6 @@ body{
     font-weight: bold;
     text-decoration: none; 
     padding-left: 1%;
-    transform: scale(1.5);
 }
 
 .thisPage{
